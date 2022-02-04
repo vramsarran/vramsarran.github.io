@@ -4,5 +4,6 @@ h1{
 
 html{
   background: linear-gradient(to bottom, #0033cc 0%, #00ff99 100%);
+  background-size: cover;
 
 }
