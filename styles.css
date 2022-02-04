@@ -3,7 +3,9 @@ h1{
 }
 
 html{
-  background: linear-gradient(to bottom, #0033cc 0%, #00ff99 100%);
+  background-image: url('homepage.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 
 }
