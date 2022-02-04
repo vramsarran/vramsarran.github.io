@@ -3,7 +3,7 @@ h1{
 }
 
 html{
-  background-image: url(https://cdn.hipwallpaper.com/i/65/22/g876Ek.jpg);
+  background-image: url('https://cdn.hipwallpaper.com/i/65/22/g876Ek.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
