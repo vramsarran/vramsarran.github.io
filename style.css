@@ -1,6 +1,6 @@
 h1{
   text-align: center;
-  color: #00e6e6;
+  color: #00CED1;
 }
 
 h2{
@@ -9,6 +9,11 @@ h2{
 
 p{
   text-align: center;
+}
+
+.links{
+  text-align: center;
+  color: #40E0D0;
 }
   
 
