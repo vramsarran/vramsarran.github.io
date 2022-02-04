@@ -2,10 +2,11 @@ h1{
   text-align: center;
 }
 
-body{
-  background-image: url('homepage.jpg');
+html{
+  background-image: url(https://cdn.hipwallpaper.com/i/65/22/g876Ek.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-position: center;
+  height: 100%
 
 }
