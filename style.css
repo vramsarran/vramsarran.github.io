@@ -42,10 +42,11 @@ button{
 }
 
 .Quiz{
-    color: red;
+    color: black;
     background-color: #9932CC;
     background: linear-gradient(to bottom, white, #9932CC);
     padding: 1em 1em 1em 1em;
+  border: 5px double;
 }
 
 #border{
@@ -62,6 +63,8 @@ button{
 
 .Game{
     padding: 1em 1em 1em 1em;
+  background: linear-gradient(to bottom, white, #3CB371);
+    border: 5px double;
 }
 
 #Project{
