@@ -36,6 +36,11 @@ html{
   
 }
 
+button{
+    font-family: 'Permanent Marker', cursive, bold;
+    font-size: 15px;
+}
+
 .Quiz{
     color: red;
     background-color: #9932CC;
@@ -46,6 +51,7 @@ html{
 #border{
     width: 100px;
     margin: 0px auto;
+  padding: 1em 1em 1em 1em;
 }
 
 #game{
