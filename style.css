@@ -44,38 +44,44 @@ button{
 
 .Quiz{
     color: black;
-    background-color: #9932CC;
     background: linear-gradient(to bottom, white, #9932CC);
     padding: 1em 1em 1em 1em;
-  border: 5px double;
+    border: 5px dotted;
 }
 
 #border{
     width: 100px;
-    margin: 0px auto;
-  padding: 1em 1em 1em 1em;
+    height:100px;
+    padding: 1em 1em 1em 1em;
+    margin: 0px 0px 0px 40px;
+    
 }
 
 #game{
     width: 100px;
-    margin: 0px auto;
-  padding: 1em 1em 1em 1em;
+    height:100px;
+    padding: 1em 1em 1em 1em;
+    margin: 0px 0px 0px 200px;
+
 }
 
 .Game{
-    padding: 1em 1em 1em 1em;
-  background: linear-gradient(to bottom, white, #3CB371);
+    padding: 1em 1em;
+    background: linear-gradient(to bottom, white, #3CB371);
     border: 5px double;
 }
 
 #Project{
     width: 100px;
-    margin: 0px auto;
-    padding: 1em 1em 1em 1em;
+    height:100px;
+    padding: 1em 1em;
+    margin: 0px 0px 30px 200px;
+
 }
 
 .tic{
-    padding: 1em 1em 1em 1em;
+    padding: 1em 1em;
+    border: 5px dotted;
+  
 }
-
   
