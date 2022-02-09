@@ -84,8 +84,8 @@ button{
 .tic{
     padding: 1em 1em;
     border: 5px dotted;
-  background: rgb(2,0,36);
-background: linear-gradient(174deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(5,100,181,1) 64%, rgba(14,152,241,1) 70%, rgba(0,212,255,1) 100%);
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 41%, rgba(252,176,69,1) 100%);
   
   
 }
