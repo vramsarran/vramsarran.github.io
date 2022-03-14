@@ -33,7 +33,7 @@ html{
 
 #container{
   background-color: white;
-  width: 900px;
+  width: 920px;
   margin: 0px auto;
   padding: 0px 1em 0px 1em;
   
@@ -88,6 +88,20 @@ button{
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 41%, rgba(252,176,69,1) 100%);
   
   
+}
+
+#mental{
+    width: 100px;
+    height:100px;
+    padding: 1em 1em;
+    margin: 0px 0px 30px 200px;
+}
+
+.health{
+    color: black;
+    background: linear-gradient(to bottom, white, #9932CC);
+    padding: 1em 1em 1em 1em;
+    border: 5px dotted;
 }
 
 .my-image{
